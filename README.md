@@ -73,7 +73,7 @@ H0: MechaCar's safety ratings are not statistically affected by the variables
 Ha: MechaCar's safety ratings are influenced by the variables
 
 #### Statistical Tests and Reasoning
-Multiple Linear regression would be ideal as it assesses typical vehicle measures and features that can influence performance in safety testing that would, in turn, provide a target feature/measure to improve.
+Multiple Linear regression would be ideal as it uses more than two variables to assess the typical vehicle measures and features that can influence performance in safety testing that would, in turn, provide a target feature/measure to improve.
 
 #### Data Needed for Testing
 * IIHS Safety ratings for vehicles in the same class as the MechaCar Prototype
